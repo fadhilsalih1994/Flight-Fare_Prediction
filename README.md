@@ -23,5 +23,6 @@ Application Link (Heroku): https://flight-fare-prediction-707.herokuapp.com
 
 ## Demo
 
-![image](https://user-images.githubusercontent.com/43120890/117564553-d0703000-b069-11eb-857d-4a2ae0f0ef40.png)
+![image](https://user-images.githubusercontent.com/43120890/117564629-39f03e80-b06a-11eb-8349-dd3491b63c0b.png)
+
 
