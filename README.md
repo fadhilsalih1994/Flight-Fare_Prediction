@@ -19,4 +19,9 @@ The columns in the given dataset are as follows:
 
 Dataset Link: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/
 
-Application Link (Heroku): 
+Application Link (Heroku): https://flight-fare-prediction-707.herokuapp.com
+
+##Demo
+
+![image](https://user-images.githubusercontent.com/43120890/117564553-d0703000-b069-11eb-857d-4a2ae0f0ef40.png)
+
